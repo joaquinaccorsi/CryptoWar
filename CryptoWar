@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="row">
+        <div class="NAVBAR col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="HEADER col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="TRAILER col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="INFO SECTION1 col-xs-6"></div>
+        <div class="INFO SECTION2 col-xs-6"></div>
+    </div>
+    <div class="row">
+        <div class="INFO SECTION3 col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="COFRES col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="ROADMAP col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="TEAM col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="DONATE col-xs-12"></div>
+    </div>
+    <div class="row">
+        <div class="FOOTER col-xs-12"></div>
+    </div>
+</div>
